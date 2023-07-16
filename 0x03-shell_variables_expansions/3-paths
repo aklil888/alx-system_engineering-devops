@@ -1,2 +1,2 @@
 #!/bin/bash
-DIRS=$(find . -type d -mindepth $n)
+echo DIRS=$(find . -type d -mindepth $1)
